@@ -7,7 +7,7 @@
 🔭 I’m currently working on Smartcontract and React Development
 
 ![Reinhard's github stats](https://github-readme-stats.vercel.app/api?username=corlys&show_icons=true&theme=light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corlys&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corlys&layout=compact)
 <!--
 **corlys/corlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
