@@ -4,7 +4,7 @@
 
 ⚡ Fun fact: My Wheezing actually decrease after covid era
 
-🔭 I’m currently working on Smartcontract and React Development
+🔭 I’m currently working on React Development
 
 <!--
 **corlys/corlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
